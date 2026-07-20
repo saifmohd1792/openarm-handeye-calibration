@@ -1,4 +1,5 @@
 # ROS2 Hand-Eye Calibration
+<img width="1918" height="1026" alt="image" src="https://github.com/user-attachments/assets/003e4fa7-c077-4a09-8178-256941b93fe0" />
 
 A modular ROS2 package for performing eye-in-hand camera calibration using OpenCV and ChArUco boards.
 
